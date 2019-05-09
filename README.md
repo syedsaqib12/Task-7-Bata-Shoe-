@@ -1,2 +1,2 @@
 # Task-7-Bata-Shoe-
-file:///D:/Tech%20Karo/shoe/index.html
+https://syedsaqib12.github.io/Task-7-Bata-Shoe-/
